@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ since for most of my career I was coding in C
 - 💞️ I’m looking to collaborate on improving Gentoo experience on the desktop ARM systems
 - 📫 How to reach me: kvitenj@kvitenj.dev
-- 😄 Pronouns: he/him
+- 🙂 Pronouns: he/him
 - ⚡ Fun fact: Kvitenj (pronounced like kveetéñ) is the Ukrainian name for April
 
 <!---

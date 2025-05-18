@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @kvitenj
 - 👀 I’m interested in Retro computers and Embedded systems
-- 🌱 I’m currently learning C++ since for most of my career I was coding in C
-- 💞️ I’m looking to collaborate on improving Gentoo experience on the desktop ARM systems
+- 🌱 I’m currently learning C++ and Rust
+- 🧔🏻 I have 12+ years of Pure C Embedded programming experience
+- 💔 Due to health issues, I’m not ready to collaborate on any project
 - 📫 How to reach me: kvitenj@kvitenj.dev
-- 🙂 Pronouns: he/him
+- 🙂 Pronouns: he/him/they
 - ⚡ Fun fact: Kvitenj (pronounced like kveetéñ) is April in Ukrainian
 
 <!---
